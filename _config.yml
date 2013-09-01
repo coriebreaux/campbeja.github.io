@@ -1,2 +1,4 @@
 name: See Jessica Code.
 pygments: false
+paginate: 5
+paginate_path: "page:num"

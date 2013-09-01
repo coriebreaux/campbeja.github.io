@@ -7,3 +7,8 @@ layout: default
 <div class="post">
 {{ content }}
 </div>
+<div class="row" style="text-align:right;">
+	{% for tag in page.tags %}
+      <span class="label label-inverse">{{ tag }}</span>
+    {% endfor %}
+</div>
