@@ -1,14 +1,15 @@
 ---
 layout: default
 ---
-<h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }}</p>
-
-<div class="post">
-{{ content }}
-</div>
-<div class="row" style="text-align:right;">
-	{% for tag in page.tags %}
-      <a class="label label-inverse" href="/tag/{{ tag }}">{{ tag }}</a>
-    {% endfor %}
+<div class="panel panel-default">
+	<div class="panel-body">
+		<h2>{{ page.title }}</h2>
+		<p class="meta">{{ page.date | date_to_string }}</p>
+		{{ content }}
+	</div>
+	<div class="panel-footer" style="text-align:right;">
+		{% for tag in page.tags %}
+			<a class="label label-default" href="/tag/{{ tag }}">{{ tag }}</a>
+		{% endfor %}
+	</div>
 </div>
