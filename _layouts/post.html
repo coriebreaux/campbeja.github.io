@@ -9,6 +9,6 @@ layout: default
 </div>
 <div class="row" style="text-align:right;">
 	{% for tag in page.tags %}
-      <span class="label label-inverse">{{ tag }}</span>
+      <a class="label label-inverse" href="/tag/{{ tag }}">{{ tag }}</a>
     {% endfor %}
 </div>
