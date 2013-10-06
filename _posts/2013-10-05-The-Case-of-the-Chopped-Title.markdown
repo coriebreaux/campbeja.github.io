@@ -14,7 +14,7 @@ After making this switch, the title placement was always off somehow. The top of
 to help me identify layout issues.
 
 <p class="text-muted" align="center">
-	<img align="center" src="img/posts/2013-10-05-The-Case-of-the-Chopped-Title/headerScreenShot.png" alt="title screenshot" />
+	<img align="center" src="/img/posts/2013-10-05-The-Case-of-the-Chopped-Title/headerScreenShot.png" alt="title screenshot" />
 	</br>
 	<small><em>&#91;Screenshot of my botched up site title&#93;</em></small>
 </p>
