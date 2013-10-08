@@ -14,7 +14,7 @@ After making this switch, the title placement was always off somehow. The top of
 to help me identify layout issues.
 
 <p class="text-muted" align="center">
-	<img align="center" src="/img/posts/2013-10-05-The-Case-of-the-Chopped-Title/headerScreenShot.png" alt="title screenshot" />
+	<img align="center" src="/img/posts/2013-10-05-The-Case-of-the-Chopped-Title/headerScreenShot.PNG" alt="title screenshot" />
 	</br>
 	<small><em>&#91;Screenshot of my botched up site title&#93;</em></small>
 </p>
@@ -33,7 +33,7 @@ that were introduced in HTML5. Only one thing I found in this book seemed to be 
 </blockquote>
 
 <p class="text-muted" align="center">
-	<img align="center" src="/img/posts/2013-10-05-The-Case-of-the-Chopped-Title/leadingDemo.png" alt="leading demo" />
+	<img align="center" src="/img/posts/2013-10-05-The-Case-of-the-Chopped-Title/leadingDemo.PNG" alt="leading demo" />
 	</br>
 	<small><em>&#91;Image from HTML &#38; CSS: Design and Build Websites&#93;</em></small>
 </p>
